@@ -19,23 +19,13 @@
 ## (also available under the youtube video description )
 <pre>
 
-Basic Pinball Dynamics && Circular Obstacles can be seen throghout the video
-  
-- Textured Background:                0:05
-  
-- Plunger/Launcher to shoot balls:    0:29
-      Each ball (at most 5 balls) is sent by this plunger (just a path seperated by a line) with a 
-      random velovity within a specific range
-  
-- Line-Segment/Polygonal Obstacles:   0:40
+cloth simulation  0:06
+3D simulation 0:06
+3D camera navigation 0:14
+High-quality Rendering 0:26
+Self collision: 0:40
 
-- Multiple Balls Interacting          0:42
-  
-- Particle System Effects:            0:45
-      when ball hits purple rectangle, fountain-like particle effects would be triggered.
-  
-- Sound Effects                       1:12
-      firework sound, may not be heard in the video, please try it on local machine and then can hear it.
+SPH simulation 1:14
 </pre>
 
 
